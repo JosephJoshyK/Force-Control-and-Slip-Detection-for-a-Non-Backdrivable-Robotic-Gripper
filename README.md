@@ -24,17 +24,20 @@ To get started with this project, follow these steps:
     cd force-control-slip-detection
     ```
 
-2. **Set up the virtual environment and install dependencies:**
+2. **Install Dependencies:** Ensure you have the required software and libraries installed. You can find the list of dependencies in the `requirements.txt` file.
     ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
 
-3. **Run the initial setup scripts:**
-    ```bash
-    python setup.py
-    ```
+3. **Setup the Hardware:** Follow the instructions in the `fsr_setup` and `gripper_setup` folders to set up the robotic gripper and connect the FSR sensors.
+
+    - **FSR Setup:**
+      - Navigate to the `fsr_setup` folder.
+      - Follow the detailed setup guide to correctly position and connect the FSR sensors.
+
+    - **Gripper Setup:**
+      - Navigate to the `gripper_setup` folder.
+      - Follow the step-by-step instructions to assemble and configure the robotic gripper.
 
 4. **Start the main application:**
     ```bash
@@ -45,21 +48,14 @@ For more detailed instructions, refer to the [Installation Guide](docs/installat
 
 ## Where Users Can Get Help with Your Project
 
-If you encounter any issues or have questions about the project, you can get help through the following channels:
-
-- **GitHub Issues:** [Submit an issue](https://github.com/yourusername/force-control-slip-detection/issues) on our GitHub repository.
-- **Email:** Contact the project maintainers at [support@yourdomain.com](mailto:support@yourdomain.com).
-- **Documentation:** Check the [project documentation](docs/) for detailed guides and FAQs.
+If you encounter any issues or have questions about the project, you can:
+- **Open an Issue:** Create a new issue in the GitHub repository for any bugs or feature requests.
+- **Discussions:** Participate in discussions on the GitHub Discussions page for this project.
+- **Documentation:** Refer to the `docs` folder for detailed documentation on the system architecture, setup, and usage.
 
 ## Who Maintains and Contributes to the Project
 
-This project is maintained by the following contributors:
-
-- **Your Name:** [yourgithubusername](https://github.com/yourgithubusername) - Project Lead
-- **Contributor Name:** [contributorgithubusername](https://github.com/contributorgithubusername) - Developer
-- **Another Contributor:** [anothergithubusername](https://github.com/anothergithubusername) - Researcher
-
-We welcome contributions from the community. If you would like to contribute, please read our [Contributing Guide](CONTRIBUTING.md) and submit a pull request.
+This project is maintained by Your Name. Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and includes relevant tests.
 
 ---
 
