@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
 3. **Setup the Hardware:** Follow the instructions in the `fsr_setup` and `gripper_setup` folders to set up the robotic gripper and connect the FSR sensors.
 
     - **FSR Setup:**
-      - Navigate to the `fsr_setup` folder.
+      - Navigate to the `FSR Setup` folder.
       - Follow the detailed setup guide to correctly position and connect the FSR sensors.
 
     - **Gripper Setup:**
