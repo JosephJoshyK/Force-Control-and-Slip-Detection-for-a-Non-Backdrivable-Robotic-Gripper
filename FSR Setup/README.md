@@ -9,12 +9,12 @@ This folder contains the necessary files and instructions to set up the Force Se
 - `serial_calib.ino`: Arduino code to upload to the ESP32 for reading FSR data.
 - `galil_bridge.cpp`: Code to interface with the ATI-Mini and collect data in parallel with the ESP32.
 - `calibration_data.xlsx`: Excel file used to store and process the calibration data.
-- `fsr_calibration.md`: Detailed instructions for the calibration process.
+- `README.md`: Detailed instructions for the calibration process.
 
 ## Hardware Setup
 
 1. **Connect the FSR to ESP32:**
-    - Connect the FSR sensor to the 7th ADC port on the ESP32.
+    - Connect the FSR sensor to the 2nd ADC port on the ESP32.
 
 2. **Upload the `serial_calib.ino` Code:**
     - Open the `serial_calib.ino` file in the Arduino IDE.
