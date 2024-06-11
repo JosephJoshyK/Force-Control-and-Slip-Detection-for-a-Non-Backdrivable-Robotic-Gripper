@@ -23,6 +23,6 @@ void loop() {
     Serial.println(">");
     
     // Small delay to limit the number of readings per second
-    delay(100); // Optional: Adjust the delay as needed
+    // delay(100); // Optional: Adjust the delay as needed
 }
 
