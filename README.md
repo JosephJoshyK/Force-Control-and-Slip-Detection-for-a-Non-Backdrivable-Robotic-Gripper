@@ -29,14 +29,14 @@ To get started with this project, follow these steps:
     pip install -r requirements.txt
     ```
 
-3. **Setup the Hardware:** Follow the instructions in the `fsr_setup` and `gripper_setup` folders to set up the robotic gripper and connect the FSR sensors.
+3. **Setup the Hardware:** Follow the instructions in the `FSR Setup` and `Gripper Setup` folders to set up the robotic gripper and connect the FSR sensors.
 
     - **FSR Setup:**
       - Navigate to the `FSR Setup` folder.
       - Follow the detailed setup guide to correctly position and connect the FSR sensors.
 
     - **Gripper Setup:**
-      - Navigate to the `gripper_setup` folder.
+      - Navigate to the `Gripper Setup` folder.
       - Follow the step-by-step instructions to assemble and configure the robotic gripper.
 
 4. **Start the main application:**
