@@ -8,7 +8,7 @@ This folder contains the necessary files and instructions to set up the Force Se
 
 - `serial_calib.ino`: Arduino code to upload to the ESP32 for reading FSR data.
 - `ati_mini.cpp`: Code to interface with the ATI-Mini and collect data in parallel with the ESP32.
-- `calibration_data.xlsx`: Excel file used to store and process the calibration data.
+- `FSR_A.xlsx`,`FSR_B.xlsx`,`FSR_C.xlsx`: Excel file used to store and process the calibration data.
 - `README.md`: Detailed instructions for the calibration process.
 
 ## Hardware Setup
@@ -27,16 +27,17 @@ This folder contains the necessary files and instructions to set up the Force Se
     - Ensure the ESP32 is connected to your system via a serial connection.
     - The ESP32 will start reading data from the FSR and send it over serial communication.
 
-2. **Run the `galil_bridge.cpp` Code:**
-    - Compile and run the `galil_bridge.cpp` file on your system.
+2. **Run the `ati_mini.cpp` Code:**
+    - Compile and run the `ati_mini.cpp` file on your system.
     - This code will interface with the ATI-mini and sync the collected data in parallel with the ESP32 data.
 
 3. **Collect Data:**
-    - The data from both the ESP32 and the ATI-mini will be collected and stored in an Excel file (`calibration_data.xlsx`).
-    - The Excel file will have multiple sheets:
+    - The data from both the ESP32 and the ATI-mini will be collected and stored in an Excel file.
+    - Each sheet will have:
         - Column 5: Data from the ATI-mini.
         - Column 9: Data from the ESP32.
-    - Use the data in the `calibration_data.xlsx` file to derive the calibration equations for the FSR.
+    - Excel file for each force value is uploaded as different sheets in single Excel file as shown in `FSR_A.xlsx`,`FSR_B.xlsx`,`FSR_C.xlsx`.
+    - Use the data in the `xlsx` file to derive the calibration equations for the FSR.
     - The final sheet in the Excel file will contain the averaged values and the curve.
 
 ## Calibration Equations
