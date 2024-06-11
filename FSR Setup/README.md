@@ -7,7 +7,7 @@ This folder contains the necessary files and instructions to set up the Force Se
 ## Contents
 
 - `serial_calib.ino`: Arduino code to upload to the ESP32 for reading FSR data.
-- `galil_bridge.cpp`: Code to interface with the ATI-Mini and collect data in parallel with the ESP32.
+- `ati_mini.cpp`: Code to interface with the ATI-Mini and collect data in parallel with the ESP32.
 - `calibration_data.xlsx`: Excel file used to store and process the calibration data.
 - `README.md`: Detailed instructions for the calibration process.
 
