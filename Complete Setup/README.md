@@ -41,7 +41,7 @@ This project involves integrating calibrated Force Sensitive Resistors (FSRs) wi
 2. 3D print the ring.
 3. Attach the PCB and ESP32 to the UR5 robot arm using the 3D-printed ring as shown below:
    
-   ![Mounting PCB and ESP32 on UR5 Robot Arm](path/to/your/image.png)
+   ![Mounting PCB and ESP32 on UR5 Robot Arm](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Complete%20Setup/CAD%20Files%20Mounting%20ring/Complete%20Setup.png)
 
 
 ## Support
