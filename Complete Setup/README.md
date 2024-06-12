@@ -16,7 +16,7 @@ This project involves integrating calibrated Force Sensitive Resistors (FSRs) wi
 2. 3D print the finger pad.
 3. Attach the calibrated FSRs to the finger pad as shown below:
    
-![FSR Attachment Diagram](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Complete%20Setup/CAD_Files_Gripper/Fingertip_cad_file.jpg)
+![FSR Attachment Diagram]([https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Complete%20Setup/CAD_Files_Gripper/Fingertip_cad_file.jpg](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Complete%20Setup/CAD%20Files%20Fingertip/Fingertip_cad_file.jpg))
 
 
 
