@@ -16,7 +16,7 @@ This project involves integrating calibrated Force Sensitive Resistors (FSRs) wi
 2. 3D print the finger pad.
 3. Attach the calibrated FSRs to the finger pad as shown below:
    
-   ![FSR Attachment Diagram](Complete Setup/CAD_Files_Gripper/Fingertip_cad_file.jpg)
+   ![FSR Attachment Diagram](Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/Complete Setup/CAD_Files_Gripper/Fingertip_cad_file.jpg)
 
 ### Step 2: Connect FSRs to ESP32
 1. Connect the three FSRs to ports 2, 3, and 4 of the ESP32.
