@@ -20,16 +20,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/force-control-slip-detection.git
-    cd force-control-slip-detection
+    git clone [https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper.git
+    cd Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper
     ```
 
-2. **Install Dependencies:** Ensure you have the required software and libraries installed. You can find the list of dependencies in the `requirements.txt` file.
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Setup the Hardware:** Follow the instructions in the `FSR Setup` and `Gripper Setup` folders to set up the robotic gripper and connect the FSR sensors.
+3. **Setup the Hardware:** Follow the instructions in the `FSR Setup`, `Gripper Setup`, and `Complete Setup` folders to set up the robotic gripper and connect the FSR sensors.
 
     - **FSR Setup:**
       - Navigate to the `FSR Setup` folder.
@@ -37,14 +32,19 @@ To get started with this project, follow these steps:
 
     - **Gripper Setup:**
       - Navigate to the `Gripper Setup` folder.
-      - Follow the step-by-step instructions to assemble and configure the robotic gripper.
+      - Follow the step-by-step instructions to configure the robotic gripper.
+
+    - **Complete Setup:**
+      - Navigate to the `Complete Setup` folder.
+      - Follow the comprehensive guide to ensure all components are correctly integrated and configured.
+
 
 4. **Start the main application:**
     ```bash
-    python main.py
+    roslaunch force_control_slip_detection main.launch
     ```
 
-For more detailed instructions, refer to the [Installation Guide](docs/installation.md).
+For more detailed instructions, refer to the `README.md` in each folder.
 
 ## Where Users Can Get Help with Your Project
 
