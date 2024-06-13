@@ -47,7 +47,7 @@ To get started with this project, follow these steps:
       - Follow the comprehensive guide to ensure all components are correctly integrated and configured.
 
 
-4. **Launch the fsr_main code:**
+4. **Launch the fsr_main codes:**
     ```bash
     roslaunch fsr_main main.launch
     ```
