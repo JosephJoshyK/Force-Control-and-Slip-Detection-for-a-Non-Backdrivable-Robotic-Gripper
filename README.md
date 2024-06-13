@@ -7,6 +7,14 @@ This project focuses on the development and implementation of a force control an
 - Slip detection mechanisms to identify when an object is slipping and adjust the grip accordingly.
 - Experimental validation and testing of the system using various objects and scenarios.
 
+### Force Control Demonstration
+
+![Force Control Video](https://force-control-video)
+
+### Slip Detection Demonstration
+
+![Slip Detection Video](https://slip-detection-video)
+
 ## Why the Project is Useful
 
 This project is particularly useful for applications in industrial automation, where precise handling of delicate or variable objects is critical. The ability to control grip force and detect slip in real-time can:
