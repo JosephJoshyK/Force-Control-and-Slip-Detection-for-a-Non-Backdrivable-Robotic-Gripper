@@ -47,9 +47,9 @@ To get started with this project, follow these steps:
       - Follow the comprehensive guide to ensure all components are correctly integrated and configured.
 
 
-4. **Start the main application:**
+4. **Launch the fsr_main code:**
     ```bash
-    roslaunch force_control_slip_detection main.launch
+    roslaunch fsr_main main.launch
     ```
 
 For more detailed instructions, refer to the `README.md` in each folder.
