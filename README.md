@@ -51,11 +51,11 @@ For more detailed instructions, refer to the [Installation Guide](docs/installat
 If you encounter any issues or have questions about the project, you can:
 - **Open an Issue:** Create a new issue in the GitHub repository for any bugs or feature requests.
 - **Discussions:** Participate in discussions on the GitHub Discussions page for this project.
-- **Documentation:** Refer to the `docs` folder for detailed documentation on the system architecture, setup, and usage.
+- **Documentation:** Refer to the `README.md` folder for detailed documentation on the system architecture, setup, and usage.
 
 ## Who Maintains and Contributes to the Project
 
-This project is maintained by Your Name. Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and includes relevant tests.
+This project is maintained by Joseph Joshy. Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and includes relevant tests.
 
 ---
 
