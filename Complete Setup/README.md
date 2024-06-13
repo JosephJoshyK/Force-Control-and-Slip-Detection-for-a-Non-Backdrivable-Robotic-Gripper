@@ -4,15 +4,15 @@
 This project involves integrating calibrated Force Sensitive Resistors (FSRs) with a Robotiq gripper, facilitated by a custom-designed PCB and ESP32 microcontroller. The setup includes CAD files for various components and code for data collection and communication. The system is designed to be compact and efficient, with a specific focus on ease of attachment to the UR5 robot arm.
 
 ## Folder Structure
-- **CAD_Files_Gripper**: Contains CAD files for the finger pad used to attach the FSRs to the Robotiq gripper.
+- **CAD Files Fingertip**: Contains CAD files for the finger pad used to attach the FSRs to the Robotiq gripper.
 - **PCB_Designs**: Contains files for the designed PCB, which incorporates the voltage divider circuit for compact system integration.
-- **Mounting_Ring**: Contains CAD files for the 3D-printed ring used to attach the PCB and ESP32 to the UR5 robot arm.
+- **CAD Files Mounting Ring**: Contains CAD files for the 3D-printed ring used to attach the PCB and ESP32 to the UR5 robot arm.
 - **FSR_Data_Collector.ino**: Arduino code for collecting data from the FSRs and handling serial communication.
 
 ## Setup Instructions
 
 ### Step 1: Assemble the Finger Pad
-1. Open the `CAD_Files_Gripper` folder and locate the CAD files for the finger pad.
+1. Open the `CAD Files Fingertip` folder and locate the CAD files for the finger pad.
 2. 3D print the finger pad.
 3. Attach the calibrated FSRs to the finger pad as shown below:
    
@@ -37,7 +37,7 @@ This project involves integrating calibrated Force Sensitive Resistors (FSRs) wi
 5. Attach the PCB to the ESP32, ensuring all connections are secure.
 
 ### Step 5: Mount the System on the UR5
-1. Open the `Mounting_Ring` folder and locate the CAD files for the 3D-printed ring.
+1. Open the `CAD Files Mounting Ring` folder and locate the CAD files for the 3D-printed ring.
 2. 3D print the ring.
 3. Attach the PCB and ESP32 to the UR5 robot arm using the 3D-printed ring as shown below:
    
@@ -48,6 +48,6 @@ This project involves integrating calibrated Force Sensitive Resistors (FSRs) wi
 For any questions or issues, please contact josephkjoshy@gmail.com.
 
 ## Acknowledgements
-- CAD models provided in `CAD_Files_Gripper` and `Mounting_Ring`.
+- CAD models provided in `CAD Files Fingertip` and `CAD Files Mounting Ring`.
 - PCB files are provided in `PCB_Designs`.
 - Code developed for data collection and serial communication is provided in `FSR_Data_Collector.ino`.
