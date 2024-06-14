@@ -49,7 +49,7 @@ To get started with this project, follow these steps:
 
 4. **Launch the fsr_main codes:**
     ```bash
-    roslaunch fsr_main main.launch
+    roslaunch fsr_main smart_grip.launch
     ```
 
 For more detailed instructions, refer to the `README.md` in each folder.
