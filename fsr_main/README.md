@@ -19,7 +19,7 @@ The FSR Main package integrates force-sensitive resistors (FSRs) with a UR5 robo
    - `package.xml`: Package manifest containing package dependencies and information.
 
 5. **Source Files**:
-   - `sheets/`: Directory containing Excel sheets (`FSR_2.xlsx`, `FSR_3.xlsx`, `FSR_4.xlsx`) used for FSR calibration.
+   - `sheets`: Directory containing Excel sheets (`FSR_2.xlsx`, `FSR_3.xlsx`, `FSR_4.xlsx`) used for FSR calibration.
 
 ## Dependencies
 
@@ -102,7 +102,7 @@ This script implements the force control and slip detection logic for the roboti
 - Adjusts the gripper position and force based on the real-time feedback.
 - Detects slip conditions and takes corrective actions.
   
-### Acknowledgements
+## Acknowledgements
 
 This project is developed to enhance the performance of a non-backdrivable robotic gripper by implementing advanced force control and slip detection mechanisms. Special thanks to the developers of the ROS and Robotiq 3F Gripper control package for their invaluable tools and support.
 
