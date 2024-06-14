@@ -21,7 +21,7 @@ This project involves integrating calibrated Force Sensitive Resistors (FSRs) wi
 
 
 ### Step 2: Connect FSRs to ESP32
-1. Connect the three FSRs to ports 2, 3, and 4 of the ESP32.
+1. Connect the three FSRs to ports 2, 32, and 33 of the ESP32.
 2. Ensure secure connections to avoid any signal issues.
 
 ### Step 3: Upload Code to ESP32
