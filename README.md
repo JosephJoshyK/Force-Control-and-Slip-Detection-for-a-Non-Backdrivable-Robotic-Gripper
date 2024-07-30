@@ -73,6 +73,11 @@ If you encounter any issues or have questions about the project, you can:
 - **Discussions:** Participate in discussions on the GitHub Discussions page for this project.
 - **Documentation:** Refer to the `README.md` folder for detailed documentation on the system architecture, setup, and usage.
 
+## Acknowledgements
+
+This project is developed to enhance the performance of a non-backdrivable robotic gripper by implementing advanced force control and slip detection mechanisms. Special thanks to the developers of the ROS and Robotiq 3F Gripper control package for their invaluable tools and support.
+
+
 ## Who Maintains and Contributes to the Project
 
 This project is maintained by Joseph Joshy. Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and includes relevant tests.
