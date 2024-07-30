@@ -9,11 +9,13 @@ This project focuses on the development and implementation of a force control an
 
 ### Force Control Demonstration
 
-![Force Control Video](https://force-control-video)
+![Uncontrolled Grasp](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Controlled_grasp.mp4)
+![Force Controlled Grasp](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Uncontrolled_grasp.mp4)
+
 
 ### Slip Detection Demonstration
 
-![Slip Detection Video](https://slip-detection-video)
+![Slip Detection Video]([https://slip-detection-video](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Bottle_slip.mp4))
 
 ## Why the Project is Useful
 
