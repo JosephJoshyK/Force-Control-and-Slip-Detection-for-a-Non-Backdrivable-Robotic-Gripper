@@ -9,13 +9,13 @@ This project focuses on the development and implementation of a force control an
 
 ### Force Control Demonstration
 
-![Uncontrolled Grasp](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Controlled_grasp.mp4)
-![Force Controlled Grasp](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Uncontrolled_grasp.mp4)
+![Uncontrolled Grasp](https://github.com/JosephJoshyK/https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Uncontrolled_grasp.gif)
+![Force Controlled Grasp](https://github.com/JosephJoshyK/https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Controlled_grasp.gif)
 
 
 ### Slip Detection Demonstration
 
-![Slip Detection Video]([https://slip-detection-video](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Bottle_slip.mp4))
+![Slip Detection Video]([https://slip-detection-video](https://github.com/JosephJoshyK/Force-Control-and-Slip-Detection-for-a-Non-Backdrivable-Robotic-Gripper/blob/main/Videos/Bottle_slip.gif))
 
 ## Why the Project is Useful
 
