@@ -88,10 +88,14 @@ Feel free to reach out if you have any questions or need further assistance. Tha
 
 ## Citation
 
-If you find this useful, please [cite]([https://ieeexplore.ieee.org/abstract/document/10730714]):
+If you find this useful, please [cite](https://ieeexplore.ieee.org/abstract/document/10730714):
 
 ```
-J. Joshy, B. Sebastian and A. Thondiyath, "Force Control and Slip Detection for A Non-Backdrivable Robotic Gripper," 2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), Kota Kinabalu, Malaysia, 2024, pp. 171-176, doi: 10.1109/IICAIET62352.2024.10730714. keywords: {Resistors;Shape;Force;Materials handling;Grasping;Robot sensing systems;Sensors;Grippers;Force control;Payloads;Robotic gripper;Force control;Force Sensing Resistor;Pick-and-place tasks;Slip detection},
+J. Joshy, B. Sebastian and A. Thondiyath,
+"Force Control and Slip Detection for A Non-Backdrivable Robotic Gripper,"
+2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), Kota Kinabalu, Malaysia, 2024,
+pp. 171-176,
+doi: 10.1109/IICAIET62352.2024.10730714. 
 
 }
 ```
