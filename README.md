@@ -86,3 +86,29 @@ This project is maintained by Joseph Joshy. Contributions are welcome! If you'd 
 
 Feel free to reach out if you have any questions or need further assistance. Thank you for your interest in our project!
 
+## Citation
+
+If you find [IKFast](http://openrave.org/docs/0.8.2/openravepy/ikfast/) useful, please cite [OpenRave](http://openrave.org/):
+
+```
+@phdthesis{diankov_thesis,
+  author = "Rosen Diankov",
+  title = "Automated Construction of Robotic Manipulation Programs",
+  school = "Carnegie Mellon University, Robotics Institute",
+  month = "August",
+  year = "2010",
+  number= "CMU-RI-TR-10-29",
+  url={http://www.programmingvision.com/rosen_diankov_thesis.pdf},
+}
+```
+
+This module was also a part of [Visual Pushing and Grasping](https://github.com/andyzeng/visual-pushing-grasping). If you find it useful in your work, please consider citing:
+
+```
+@inproceedings{zeng2018learning,
+  title={Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning},
+  author={Zeng, Andy and Song, Shuran and Welker, Stefan and Lee, Johnny and Rodriguez, Alberto and Funkhouser, Thomas},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2018}
+}
+```
