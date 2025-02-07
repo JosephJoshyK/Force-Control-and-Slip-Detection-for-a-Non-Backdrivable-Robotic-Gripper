@@ -88,27 +88,10 @@ Feel free to reach out if you have any questions or need further assistance. Tha
 
 ## Citation
 
-If you find [IKFast](http://openrave.org/docs/0.8.2/openravepy/ikfast/) useful, please cite [OpenRave](http://openrave.org/):
+If you find this useful, please cite [OpenRave]([http://openrave.org/](https://ieeexplore.ieee.org/abstract/document/10730714)):
 
 ```
-@phdthesis{diankov_thesis,
-  author = "Rosen Diankov",
-  title = "Automated Construction of Robotic Manipulation Programs",
-  school = "Carnegie Mellon University, Robotics Institute",
-  month = "August",
-  year = "2010",
-  number= "CMU-RI-TR-10-29",
-  url={http://www.programmingvision.com/rosen_diankov_thesis.pdf},
-}
-```
+J. Joshy, B. Sebastian and A. Thondiyath, "Force Control and Slip Detection for A Non-Backdrivable Robotic Gripper," 2024 IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), Kota Kinabalu, Malaysia, 2024, pp. 171-176, doi: 10.1109/IICAIET62352.2024.10730714. keywords: {Resistors;Shape;Force;Materials handling;Grasping;Robot sensing systems;Sensors;Grippers;Force control;Payloads;Robotic gripper;Force control;Force Sensing Resistor;Pick-and-place tasks;Slip detection},
 
-This module was also a part of [Visual Pushing and Grasping](https://github.com/andyzeng/visual-pushing-grasping). If you find it useful in your work, please consider citing:
-
-```
-@inproceedings{zeng2018learning,
-  title={Learning Synergies between Pushing and Grasping with Self-supervised Deep Reinforcement Learning},
-  author={Zeng, Andy and Song, Shuran and Welker, Stefan and Lee, Johnny and Rodriguez, Alberto and Funkhouser, Thomas},
-  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  year={2018}
 }
 ```
